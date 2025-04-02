@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0fff0d7; /* Light green background */
+    color: #026802; /* Dark green text */
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #006400; /* Dark green background */
+    color: white; /* White text */
+    text-align: center;
+    padding: 1em 0;
+}
+
+main {
+    padding: 2em;
+}
+
+h1, h2 {
+    color: #006400; /* Dark green text */
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    background-color: #98fb98; /* Pale green background */
+    margin: 0.5em 0;
+    padding: 0.5em;
+    border-radius: 5px;
+}
+
+footer {
+    background-color: #006400; /* Dark green background */
+    color: white; /* White text */
+    text-align: center;
+    padding: 1em 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
